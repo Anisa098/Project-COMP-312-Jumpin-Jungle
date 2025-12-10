@@ -21,35 +21,35 @@ Within this project, we began by forking the original Icy Tower open-source game
   Steps for redesigning characters:
   1. Agreed upon what insects would be the characters
   2. Drawed out the characters by hand on a platform called Notablility
-     - Characters: Ladybug, Bumblebee, and a Buttlerfly
+     - Characters: Ladybug, Bumblebee, and a Butterfly
   3. Integrated the new graphics into the game accordingly to the HTML and CSS code
-- Updated the hompage layout, login form, and color palette
+- Updated the homepage layout, login form, and color palette
 
 ## Gameplay Levels
-In the game, the user is given three different levels for Beginner, Advanced, and Champion. These are on a range to easy to hard. In this feature, we enusre that our improvements followed through each level especially with our characters. Also, the user is provided with instructions that assoicate with our modernized game of what three steps they should take to play.
+In the game, the user is given three different levels for Beginner, Advanced, and Champion. These are on a range from easy to hard. In this feature, we ensure that our improvements follow through each level, especially with our characters. Also, the user is provided with instructions that associate with our modernized game of what three steps they should take to play.
 
 # Testing Procedure
-For the testing, I manually tested it to make sure that our changes did not break paths or the gamplay.
+For the testing, I manually tested it to make sure that our changes did not break paths or the gameplay.
 
 ## Results from Testing
 ![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Commits.png)
 ![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Contributors.png)
 ### Homepage 
 - **ACTION** -> Open 'home-page.html'
-- **Expected Result** -> Jumpin Jungle Logo, login button, login form, and navigation links display correctly
-## Registration and Login
-- **ACTION** -> Register a new player and login with valid email
-- **Expected Result** -> Form accepts the valid email and takes back to homepage to welcome them into the game!
-## Main Page
-- **ACTION** -> When click on the logo from the home page you will see three sections with instructions, new game, and game scores.
-- **Expected Result** -> When you click on the badge after logging in you will get to the main page.
-## Character Selection 
+- **Expected Result** -> Jumpin Jungle Logo, login button, login form, and navigation links display correctly.
+### Registration and Login
+- **ACTION** -> Register a new player and log in with a valid email.
+- **Expected Result** -> Form accepts the valid email and takes them back to the homepage to welcome them into the game!
+### Main Page
+- **ACTION** -> When you click on the logo on the home page, you will see three sections with instructions, a new game, and game scores.
+- **Expected Result** -> When you click on the badge after logging in, you will get to the main page.
+### Character Selection 
+- **ACTION** -> When you open 'characters.html', you will be given the option to choose Ladybug, Butterfly, or Bumblebee.
+- **Expected Result** -> All three characters are displayed correctly and the selected character is passed into the game.
+### Gameplay
 - **ACTION** -> 
 - **Expected Result** -> 
-## Gameplay
-- **ACTION** -> 
-- **Expected Result** -> 
-## Naviagtion 
+### Naviagtion 
 - **ACTION** -> 
 - **Expected Result** -> 
 
