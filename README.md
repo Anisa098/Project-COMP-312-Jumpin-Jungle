@@ -28,22 +28,27 @@ Within this project, we began by forking the original Icy Tower open-source game
 ## Gameplay Levels
 In the game, the user is given three different levels for Beginner, Advanced, and Champion. These are on a range to easy to hard. In this feature, we enusre that our improvements followed through each level especially with our characters. Also, the user is provided with instructions that assoicate with our modernized game of what three steps they should take to play.
 
+# Testing Procedure
+For the testing, I manually tested it to make sure that our changes did not break paths or the gamplay.
+
+## Commits
+
 # Installation
 
-1. Clone the repository to your local machine:git clone https://github.com/chavi362/Icy-Tower.git
+1. Clone the repository to your local machine:git clone [https://github.com/chavi362/Icy-Tower.git](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle.git)
 2. **Open** `Home-page.html` in your preferred web browser.
 3. **Register** for the game, enter your name and valid email and password, and proceed.
 4. Choose new game
-5. choose your favorite charcter
+5. Choose your favorite charcter
 
 ![image](https://github.com/Anisa098/Project-COMP-312-Icy-Tower/blob/main/image/InstructionsCharacters.png) 
 
-6. choose your level.
+6. Choose your level.
 The level influences the speed the tower blocks are mooving and the distance between each two blocks.
 
 ![image](https://github.com/Anisa098/Project-COMP-312-Icy-Tower/blob/main/image/GameLevels.png) 
 
-7. start playing!!!
+7. Start playing!!!
 This is the instructions for the game, you can find them also in the project itself
 
 ![image](https://github.com/Anisa098/Project-COMP-312-Icy-Tower/blob/main/image/InstructionsForReadME.png)
