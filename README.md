@@ -28,7 +28,30 @@ Within this project, we began by forking the original Icy Tower open-source game
 In the game, the user is given three different levels for Beginner, Advanced, and Champion. These are on a range from easy to hard. In this feature, we ensure that our improvements follow through each level, especially with our characters. Also, the user is provided with instructions that associate with our modernized game of what three steps they should take to play.
 
 # Testing Procedure
-For the testing, I manually tested it to make sure that our changes did not break paths or the gameplay.
+For the testing, Anisa manually tested it to make sure that our changes did not break paths or the gameplay.
+
+## Team Contributions
+Anisa was the main developer. She did the following:
+1. Designed the new Jumpin Jungle logo and badge
+2. Created and integrated all of the new characters (Ladybug, Butterfly, Bumblebee)
+3. Updated the homepage, score pages, instructions, login, title, and character selections
+4. Fixed all broken paths for images, CSS, and JavaScript
+5. Reorganized the repo for the file structure and improved all documentation
+6. Resolved the multiple Git merge conflicts and learned to manage asset integration
+7. Updated the instructions page with the associated screenshots
+
+Sydney was also a developer. She did the following:
+1. Helped with the layout of the game
+2. Gave ideas on the theme and direction of the possible characters
+3. Assisted with updating the layout and the font colors
+4. Worked on visual improvements, like adding a background for our board.
+
+We both did the following together;
+1. Selected the Jumpin' Jungle theme
+2. Collaborated on weekly reports that Anisa sent over every Friday
+3. Performed manual testing and debugging
+4. Worked on rebranding and asset planning
+
 
 ## Results from Testing
 ![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Commits.png)
@@ -56,11 +79,10 @@ For the testing, I manually tested it to make sure that our changes did not brea
 - **Expected Result** -> Each button leads to the correct pathway with no broken links.
 
 
-# Installation
 
+# Installation
 1. Clone the repository to your local machine:
-'''bash 
-git clone [https://github.com/chavi362/Icy-Tower.git](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle.git)
+git clone [https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle.git]
 3. **Open** `Home-page.html` in your preferred web browser.
 4. **Register** for the game, enter your name and a valid email and password, and proceed.
 5. Choose new game
@@ -81,7 +103,6 @@ This is the instructions for the game, you can find them also in the project its
 ### If you find this project helpful or interesting, please give it a <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5263c3c4-c0f7-4fea-9901-ea084be83615/d9izh8z-bc267973-93af-48ee-a6a6-4ee6c9225bd1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyNjNjM2M0LWMwZjctNGZlYS05OTAxLWVhMDg0YmU4MzYxNVwvZDlpemg4ei1iYzI2Nzk3My05M2FmLTQ4ZWUtYTZhNi00ZWU2YzkyMjViZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EXdtHcY0K3_YAE6xErW8kOB7M5LqSo9eBgkjhdOgd9s" width="50px">. It means a lot to us!
 
 ## Project Structure
-
 The Jumpin' Jungle project is structured as follows:
 
 ```graphql
@@ -103,8 +124,7 @@ The Jumpin' Jungle project is structured as follows:
 - Note: every html file has css file and js file with its name, they power it and style it, the html files have links for theirs
 
 ## Contributing
-
-We welcome contributions from the community to help improve the Jumpin' Jungle project, as it expands over the Icy Tower. If you would like to contribute, please follow these steps:
+We welcome contributions from the community to help improve the Jumpin' Jungle project as it expands over the Icy Tower. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -116,7 +136,6 @@ We welcome contributions from the community to help improve the Jumpin' Jungle p
 Please ensure that your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributers
-
 Thank you to:
 
 <a href="https://github.com/chavi362/Icy-Tower/graphs/contributors">
@@ -124,11 +143,9 @@ Thank you to:
 </a>
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-
 If you have any questions, suggestions, or issues regarding the Icy Tower Game, please feel free to reach out to us through the [Issues](https://github.com/chavi362/Icy-Tower/issues) section of this repository.
 
 Enjoy the game!
