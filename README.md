@@ -1,7 +1,7 @@
 # Jumpin' Jungle Game
 An interactive Jumpin' Jungle Game built with JavaScript, HTML, and CSS. Let's come together to contribute or play!
 ## Presentation
-
+Here is the link to see our presentation: https://www.canva.com/design/DAG5X69W-TQ/tQWOapsIJOF0b5TzeyuIeA/edit?utm_content=DAG5X69W-TQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Mission Statement
 
