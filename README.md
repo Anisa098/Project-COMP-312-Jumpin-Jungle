@@ -32,6 +32,9 @@ In the game, the user is given three different levels for Beginner, Advanced, an
 For the testing, I manually tested it to make sure that our changes did not break paths or the gamplay.
 
 ## Commits
+![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Commits.png)
+![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Contributors.png)
+
 
 # Installation
 
