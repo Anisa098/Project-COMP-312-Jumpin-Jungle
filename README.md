@@ -31,9 +31,29 @@ In the game, the user is given three different levels for Beginner, Advanced, an
 # Testing Procedure
 For the testing, I manually tested it to make sure that our changes did not break paths or the gamplay.
 
-## Commits
+## Results from Testing
 ![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Commits.png)
 ![image](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle/blob/main/image/Contributors.png)
+### Homepage 
+- **ACTION** -> Open 'home-page.html'
+- **Expected Result** -> Jumpin Jungle Logo, login button, login form, and navigation links display correctly
+## Registration and Login
+- **ACTION** -> Register a new player and login with valid email
+- **Expected Result** -> Form accepts the valid email and takes back to homepage to welcome them into the game!
+## Main Page
+- **ACTION** -> When click on the logo from the home page you will see three sections with instructions, new game, and game scores.
+- **Expected Result** -> When you click on the badge after logging in you will get to the main page.
+## Character Selection 
+- **ACTION** -> 
+- **Expected Result** -> 
+## Gameplay
+- **ACTION** -> 
+- **Expected Result** -> 
+## Naviagtion 
+- **ACTION** -> 
+- **Expected Result** -> 
+
+
 
 
 # Installation
