@@ -1,5 +1,4 @@
 # Jumpin' Jungle Game
-
 An interactive Jumpin' Jungle Game built with JavaScript, HTML, and CSS. Let's come together to contribute or play!
 
 # Mission Statement
@@ -8,19 +7,19 @@ Our mission for this project:
 - Create an open-source project that shows an interactive and engaging theme
 - Looked at the components of Icy Tower to transform a nature aesthetic and rebranded to Jumpin’ Jungle
 - Strengthen our skills with code, GitHub, and collaboration
-- Updated the assests of the game and realigned the structure
-- We practiced real open-source contribution by testing and documentating on our findings
+- Updated the assets of the game and realigned the structure
+- We practiced real open-source contribution by testing and documenting our findings
 
 # Overview of Improvements Made
 
 Within this project, we began by forking the original Icy Tower open-source game. The goal when looking through the games layout was navigating how to redesign the game to Jumpin' Jungle. This entailed to use to restructure the layout of the game's login page, homepage, instructions, new game, game scores, and other graphical aspects. The following was done for the changes completed:
 
 ## Visuals
-- Rebranded the entire UI to a nature them
+- Rebranded the entire UI to a nature theme
 - Planned out what new characters can match the theme
   Steps for redesigning characters:
   1. Agreed upon what insects would be the characters
-  2. Drawed out the characters by hand on a platform called Notablility
+  2. Drew out the characters by hand on a platform called Notability
      - Characters: Ladybug, Bumblebee, and a Butterfly
   3. Integrated the new graphics into the game accordingly to the HTML and CSS code
 - Updated the homepage layout, login form, and color palette
@@ -47,27 +46,30 @@ For the testing, I manually tested it to make sure that our changes did not brea
 - **ACTION** -> When you open 'characters.html', you will be given the option to choose Ladybug, Butterfly, or Bumblebee.
 - **Expected Result** -> All three characters are displayed correctly and the selected character is passed into the game.
 ### Gameplay
-- **ACTION** -> 
-- **Expected Result** -> 
-### Naviagtion 
-- **ACTION** -> 
-- **Expected Result** -> 
-
-
+- **ACTION** -> Start a new game at each difficulty level (Beginner, Advanced, Champion).
+- **Expected Result** -> Background loads, platforms move at the correct speed for the levels, and the selected character appears and can jump between platforms.
+### Score Page
+- **ACTION** -> Finish a game and view the scores page.
+- **Expected Result** -> "High Score" and "Your Score" sections update correctly and show the latest scores.
+### Navigation 
+- **ACTION** -> Use all navigation buttons, like in the upper right corner, where there is a home icon and an arrow. These features allow the user to go to the Homepage, Instructions, New Game, and Back to the screen they were on before. 
+- **Expected Result** -> Each button leads to the correct pathway with no broken links.
 
 
 # Installation
 
-1. Clone the repository to your local machine:git clone [https://github.com/chavi362/Icy-Tower.git](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle.git)
-2. **Open** `Home-page.html` in your preferred web browser.
-3. **Register** for the game, enter your name and valid email and password, and proceed.
-4. Choose new game
-5. Choose your favorite charcter
+1. Clone the repository to your local machine:
+'''bash 
+git clone [https://github.com/chavi362/Icy-Tower.git](https://github.com/Anisa098/Project-COMP-312-Jumpin-Jungle.git)
+3. **Open** `Home-page.html` in your preferred web browser.
+4. **Register** for the game, enter your name and a valid email and password, and proceed.
+5. Choose new game
+6. Choose your favorite character
 
 ![image](https://github.com/Anisa098/Project-COMP-312-Icy-Tower/blob/main/image/InstructionsCharacters.png) 
 
 6. Choose your level.
-The level influences the speed the tower blocks are mooving and the distance between each two blocks.
+The level influences the speed at which the tower blocks are moving and the distance between every two blocks.
 
 ![image](https://github.com/Anisa098/Project-COMP-312-Icy-Tower/blob/main/image/GameLevels.png) 
 
